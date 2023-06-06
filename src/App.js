@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="col-md-12">
       <div className="wetherBg">
-        <h1 className="heading">Weather App</h1>
+        <h1 className="heading">Know The Weather of Anywhere </h1>
 
         <div className="d-grid gap-3 col-4 mt-4">
           <input type="text" className="form-control"
