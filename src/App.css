@@ -1,5 +1,5 @@
 .wetherBg{
-  background: url("https://4kwallpapers.com/images/walls/thumbs_3t/3609.jpg");
+  background-color : white;
   height: 50vh;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@
   justify-content: center;
 }
 .heading{
-  color:white;
+  color:black;
   font-weight: 200;
   font-family: fantasy;
 }

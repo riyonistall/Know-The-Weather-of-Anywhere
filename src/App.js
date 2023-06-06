@@ -41,7 +41,7 @@ function App() {
           <input type="text" className="form-control"
             value={inputCity}
             onChange={handleChangeInput} />
-          <button className="btn btn-primary" type="button"
+          <button className="btn-btn-primary" type="button"
             onClick={handleSearch}
           >Search</button>
         </div>
