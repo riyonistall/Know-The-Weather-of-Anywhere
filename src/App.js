@@ -40,10 +40,10 @@ function App() {
         <div className="d-grid gap-3 col-4 mt-4">
           <input type="text" className="form-control"
             value={inputCity}
-            onChange={handleChangeInput} />
+            onChange={handleChangeInput}/>
           <button className="btn-btn-primary" type="button"
             onClick={handleSearch}
-          >Search</button>
+          >Show</button>
         </div>
       </div>
 
